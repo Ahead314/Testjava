@@ -1,0 +1,40 @@
+.header{
+/*Specify the color of the character */
+color:black;
+font-size : 30px;
+Font-family : serif;
+background-color: #ddd;
+
+/*width: 500px;
+height: 200px;*/
+}
+
+.main{
+    font-size : 30px;
+    Font-family : serif;
+    color:blueviolet;
+    background-color: #00ff99;
+    height: 600px;
+}
+.footer{
+    color:black;
+    font-size : 10px;
+    Font-family : serif;
+    background-color: #ddd;;
+    /*width: 500px;
+    height: 200px;*/
+}
+.footer-lien a{
+    float: right;
+    padding:10px;
+    font-size:20px;
+}
+.footer-titre h4{
+    float:left;
+    font-size: 18px;
+    /*padding:0px;
+    margin:0px;*/
+}
+span{
+    color:#00ff99;
+}

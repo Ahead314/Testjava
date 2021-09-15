@@ -1,0 +1,50 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li{
+  list-style: none;
+}
+
+/* Use the list-style property to remove dots from <li> tags */
+.header-list li
+{
+  float:left;
+  padding: 10px;
+}
+
+.header {
+  background-color: #f7f2b4;
+  height: 50px;
+  padding:40px;
+}
+.header-logo
+{
+  float:left;
+  padding:25px;
+  /*font-size:18px;*/
+}
+
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+
+.footer {
+  background-color:#2f5167;
+  height: 120px;
+  color:#fff;
+  padding:40px;
+}
+
+.footer-logo{
+  font-size:20px;
+  float:left;
+  padding:10px;
+}
+
+.footer-list
+{
+float:right;
+padding: 10px;
+}

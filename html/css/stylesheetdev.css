@@ -1,0 +1,55 @@
+/*.header
+{
+    background-color: blueviolet;
+
+}*/
+/*
+.header-Me
+{
+    background-color:brown;
+    border: 2px dotted green;   
+
+}*/
+.header-Me span, p
+{
+    /*background-color:brown;*/
+    /*border: 2px dotted green;*/
+    color:black;
+    font-size: 70px;
+    margin: 5px;
+
+}
+/*
+.header-list-lges{
+    background-color: bisque;
+    border: 2px solid violet;
+}*/
+.header-list-lges p{
+    margin:50px;
+    padding: 20px;
+    /*border: 5px solid lightgreen;*/
+    text-align: center;
+    color:black;
+}
+.header-lges{
+    float:left;
+    /*background-color:greenyellow;*/
+    margin: 20px;
+    padding: 10px
+}
+
+
+
+
+
+
+/*.header-Me p
+{
+    background-color:bisque;
+    float:left;
+    border: 5px solid blue;
+}
+h1{
+    background-color: blue;
+    float:right;
+}*/
